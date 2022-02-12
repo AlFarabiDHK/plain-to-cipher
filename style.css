@@ -1,0 +1,96 @@
+/*
+Name:        Muhtasim Al-Farabi
+Course:      CSc 337
+File:        style.css
+Description: This document contains the necessary CSS for PA5.
+*/
+
+body{
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+table{
+    border: solid red 2px;
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    font-family: Impact; 
+    font-size: 40px;
+}
+
+
+#right-up {
+    position: fixed;
+    float: right;
+    right: 0px;
+    width: 70%;
+    height: 50%;
+    background-color: rgb(99,200,99);
+}
+
+#right-down {
+    position: fixed;
+    float: right;
+    right: 0px;
+    bottom: 0px;
+    width: 70%;
+    height: 50%;
+    background-color: rgb(9,249,249);
+}
+
+#menu {
+    position: fixed;
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: rgb(50,50,50);
+    color: white;
+}
+
+#welcome {
+    font-family: Impact;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 25%;
+    margin-left: 20%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+}
+
+#input-box, #range, #update{
+
+    margin-right: 20%;
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+
+#input-box {
+    margin-left: 20%;
+    width: 50%;
+}
+
+#range{
+    margin-left: 2%;
+    width: 33%;
+}
+
+#update{
+    margin-left: 40%;
+}
+
+#top-text, #bottom-text{
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+    font-size: 100px;
+    margin-top: 0px;
+}
+
+#result{
+    text-align: right;
+    z-index: 2;
+    margin-left: 25%
+}
