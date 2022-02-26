@@ -1,12 +1,4 @@
-/*
-Name:        Muhtasim Al-Farabi
-Course:      CSc 337
-File:        index.html
-Description: This file contains the necessary JavaScript functions for PA5.
-            These functions have been linked up with the HTML elements to 
-            execute them on click/change/input.
-  
- */
+
 
 /**
  * This function takes in a value from the DOM and displays it in 
