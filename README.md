@@ -5,12 +5,12 @@ text instantaneously. It uses Caesar cipher and a simplfied version of two squar
 
 
 ## How to run
-----------------------------------------------------------------
+
 Clone the repo using: `https://github.com/AlFarabiDHK/plain-to-cipher.git`
 
 Then open up the `index.html` to use it!
 
 
 ## Future Improvements
----------------
+
 I have plans on changing the simplified two square version to the actual version. Read more here: [`Two-square cipher`](https://en.wikipedia.org/wiki/Two-square_cipher)
